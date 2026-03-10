@@ -1,7 +1,5 @@
 # 👋 Hello World! 
 
-<a href="https://github.com/MgsLv">
-  <img aling="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=bloedboemmel&show_icons=true&theme=radical" height="180"/>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/stargazers">
+      <img alt="Stargazers" src="https://img.shields.io/github/stars/vn7n24fzkq/github-profile-summary-cards?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41">
 </a>
-
-![Snake animation](https://github.com/MgsLv/MgsLv/blob/output/github-contribution-grid-snake.svg)
