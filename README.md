@@ -22,7 +22,7 @@ Desenvolvedor focado em Back-End, mas atualmente desenvolvendo minhas habilidade
 ### 🐍 Contribuições recentes
 
 <p align="center">
-  ![snake animation](https://github.com/MgsLV/MgsLv/blob/output/github-contribution-grid-snake2.svg)
+  <img src="https://githubusercontent.com" alt="Jogo da Cobrinha de Contribuições" width="100%" />
 </p>
 
 ### 🛠️ Tecnologias e Ferramentas
