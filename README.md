@@ -61,13 +61,13 @@ Desenvolvedor focado em Back-End, mas atualmente desenvolvendo minhas habilidade
 ### 📬 Conecte-se comigo
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:mgsousa23lv@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&mailto:mgsousa23lv@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/miguelsoaresdesousa/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelsoaresdesousa/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
+  <a href="https://wa.me/5511992971237" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511992971237" alt="WhatsApp"/></a>
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/mg.sousalv_/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mg.sousalv_/" alt="Instagram"/></a>
 </p>
 
